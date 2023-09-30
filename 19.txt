@@ -1,0 +1,33 @@
+*macos-x game engine -unity-technologies-apple-world-wide-developers-conference
+*popular on ios & android.
+*use outside of gaming - comunity. enginering ,bussiness
+*apple INCs apple design awards.
+*later adding support for ms-windows & ms-webs.
+*unity-2.0>*user-datagram-protocol
+	  >*network-address-translation
+	  >*appstore-in-2008
+	  >*launched-in-2007
+	  >*/
+*unity-3.0>*launched-in-2010
+	  >*additional-android-support
+	  >*uv-mapping
+	  >*powerfull-genging-mobile-platform
+	  >*/
+*unity-4.0>*added-[direct-x11]
+	  >*adobi-flash-support-added
+	  >*linux-preview
+	  >*software-developmentkitforfacebook
+	  >*2016-facebook-developed-gaming-platform-with-unity.
+	  >*/
+*unity-5.0>*compatibleWebbrowsersnoplug-ins required forplayers.
+	  >*webgl-soud&audio
+	  >*global-illumination
+	  >*nvidia-phyX-3.3
+
+*tizen-linux-based
+* When LizardFactory asked Unity if their game Orgynizer were exempt as they were partners with Planned Parenthood and C.S. Mott Children's Hospital
+*B2B-contact
+*https://en.wikipedia.org/wiki/List_of_WebGL_frameworks    	  
+	  	  
+	  
+	   
