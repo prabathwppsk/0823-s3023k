@@ -1,0 +1,64 @@
+*low power legacy free desktop computer.
+*designed to web-browsing,web-based-apps,simple-apps.
+*more nettops se below 8wats and solid-state-drive.
+*hence make nettops less appropriate for running complex or resource-intensive applications. 
+*three platforms, primerily intended for nettops >*Intel's Centrino platform
+						 >*Nvidia's Ion platform
+						 >*VIA's Trinity Platform
+cpu>*Intel Atom, Core i3 (x86)
+   >*VIA Nano and VIA C7 processors (x86)
+   >*ARM Cortex-based CPU (ARM)
+gpu>*Intel GMA 950
+   >*AMD Radeon HD 6310
+   >*powervr
+chipset>*945GSE and 945GC Express chipsets
+       >*MCP79MX (integrated GeForce 9400M G GPU; Nvidia ION platform)
+       >*VIA VX800 IGP Chipset 
+I/O ports>*LAN, USB 2.0, video out, audio out  
+*Many net-top models are x86-processor-based and as such are capable of running standard PC OSes. 
+*Another Linux distribution suitable for nettops is Ubuntu.[citation needed]       
+*  $100-299/-
+*https://www.hexus.net/tech/reviews/systems/17078-asus-eee-top-et1602-glimpse-computers-come/
+*the Radeon RX 6000 series>*based on 40mm process
+			  >*TeraScale 2 (VLIW5),
+			  >*TeraScale 3 (VLIW4) 
+			  >*2010 "AMD Vision" logo
+			  >*Mobility Radeon
+			  >*Transistors	
+
+    					292M 40 nm (Cedar)
+    					370M 40 nm (Caicos)
+    					716M 40 nm (Turks)
+    					1.040M 40 nm (Juniper)
+    					1.700M 40 nm (Barts)
+    					2.640M 40 nm (Cayman)
+    					2x 2.640M 40 nm (Antilles)
+    			>*Direct3D	
+    					Direct3D 11
+					(feature level 11_0) [1]
+					Shader Model 5.0
+    			>*OpenCL 1.2
+    			>*OpenGL 4.5
+    			>* Nvidia's GeForce 500 Series;
+    			>*OpenGL 4.x compliance requires supporting FP64 shaders.
+    			>*GDDR5 support, along with new Northern Island technologies. 
+    			>*HD6790-840MHz-256bitmem 1GB-GDDR5-DRAM @1GHz-maxpower-draw-150W.NVIDIA-GTX_550_TI
+    			>*Juniper XT and Juniper Pro core
+    			>*HD6000 AMD's Universal Video Decoder-3.0  ..bluray 3d-codes
+    			>*HD 6850 has 960 stream processors at 775 MHz, a 256-bit memory interface and 1 GB GDDR5 DRAM at 1 GHz with maximum power draw of 127 W.
+    			>*HD 6870 has 1120 stream processors at 900 MHz (most GPUs are able to run with 980-1000 MHz), a 256-bit memory interface and 1 GB GDDR5 DRAM at 1.05 GHz (can be overclocked to 1.2 GHz (4.8 GHz effective)) with a maximum power draw of 151 W. 
+    			>*
+
+    					
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+ 
+ 
+ 
+ 
+   					 
