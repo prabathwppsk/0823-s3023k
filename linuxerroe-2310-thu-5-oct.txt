@@ -1,0 +1,15 @@
+┌──(kali㉿kali)-[~/Downloads]
+└─$ sudo dpkg -i code_1.25.1-1531323780_i386.deb
+(Reading database ... 420866 files and directories currently installed.)
+Preparing to unpack code_1.25.1-1531323780_i386.deb ...
+Unpacking code (1.25.1-1531323780) over (1.25.1-1531323780) ...
+dpkg: dependency problems prevent configuration of code:
+ code depends on libgconf-2-4; however:
+  Package libgconf-2-4 is not installed.
+
+dpkg: error processing package code (--install):
+ dependency problems - leaving unconfigured
+Processing triggers for desktop-file-utils (0.26-1) ...
+Processing triggers for mailcap (3.70+nmu1) ...
+Errors were encountered while processing:
+ code
